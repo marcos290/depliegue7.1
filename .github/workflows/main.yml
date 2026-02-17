@@ -17,4 +17,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: marcos290/practica_7.1:latest
+          tags: marcos290/depliegue7.1:latest
